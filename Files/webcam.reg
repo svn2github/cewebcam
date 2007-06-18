@@ -1,0 +1,11 @@
+
+
+[HKEY_LOCAL_MACHINE\Drivers\USB\ClientDrivers\Video_Class]
+	"Prefix"="CAM"
+	"Dll"="Webcam.dll"
+
+[HKEY_LOCAL_MACHINE\Drivers\USB\LoadClients\1133_2245\Default\Default\Video_Class]
+	"DLL"="webcam.dll"
+
+[HKEY_LOCAL_MACHINE\Drivers\USB\LoadClients\Default\Default\14\Video_Class]
+	"DLL"="webcam.dll"
